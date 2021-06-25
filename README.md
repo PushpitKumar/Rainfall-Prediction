@@ -60,7 +60,7 @@ pip install -r requirements.txt
 * The web was developed using Streamlit web-app framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking here
 * Basic understanding of streamlit and html was needed for designing the webpage and to make sure it was responsive to user inputs.
 
-### 8. App Implementation  
+### 7. App Implementation  
 * The app asks for user to enter the weather observations recorded by the weather station for a particular day, which included features such as Location, Date, Temperature, WindSpeed, etc. Based on these inputs, it is predicted whether it will rain tomorrow or not!
 
 ![1](https://user-images.githubusercontent.com/83957848/123480870-99a5a780-d620-11eb-97f6-e35fa4320808.JPG)
@@ -68,12 +68,12 @@ pip install -r requirements.txt
 ![3](https://user-images.githubusercontent.com/83957848/123480902-a32f0f80-d620-11eb-8989-77bb689c91ad.JPG)
 ![4](https://user-images.githubusercontent.com/83957848/123480917-a75b2d00-d620-11eb-8aab-42b434f7a9fb.JPG)
 
-### 9. Drawbacks and Future Scope
+### 8. Drawbacks and Future Scope
 * The data used for training and testing purpose of model was from 2007 till 2017 only.
 * In this model OneHotEncoding has been implemented for categorical feature encoding. This has resulted in a large feature space. LabelEncoding could optimize the model.
 * Although XgBoost performed the best, I was unable to use it for my model due to some dependency issue in app development.
 * Although the web app has been successfully developed, I'm unable to deploy it because of some issue with the Pickle File.
 * Complete removal of outliers has resulted in best model performance and same can be implemented in this problem.
 
-### 10. Credits
+### 9. Credits
 I would like to thank [Krish Naik](https://github.com/krishnaik06) for hosting this problem statement on his youtube channel whose for the successful completion of this project.  
