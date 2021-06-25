@@ -60,8 +60,6 @@ pip install -r requirements.txt
 * The web was developed using Streamlit web-app framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking here
 * Basic understanding of streamlit and html was needed for designing the webpage and to make sure it was responsive to user inputs.
 
-![3](https://user-images.githubusercontent.com/83957848/119222443-06092480-bb12-11eb-8102-086761ded15b.JPG)
-
 ### 8. App Implementation  
 * The app asks for user to enter the weather observations recorded by the weather station for a particular day, which included features such as Location, Date, Temperature, WindSpeed, etc. Based on these inputs, it is predicted whether it will rain tomorrow or not!
 
