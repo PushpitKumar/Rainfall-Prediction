@@ -76,4 +76,4 @@ pip install -r requirements.txt
 * Complete removal of outliers has resulted in best model performance and same can be implemented in this problem.
 
 ### 9. Credits
-I would like to thank [Krish Naik](https://github.com/krishnaik06) for hosting this problem statement on his youtube channel whose for the successful completion of this project.  
+I would like to thank [Krish Naik](https://github.com/krishnaik06) for hosting this problem statement on his youtube channel for the successful completion of this project.  
