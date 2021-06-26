@@ -57,7 +57,7 @@ Follow the instructions if you want to run the app from your local computer.
 pip install -r requirements.txt
 ```
 ### 6. Building the Web App
-* The web was developed using Streamlit web-app framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking here
+* The web was developed using Streamlit web-app framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking [here](https://streamlit.io/)
 * Basic understanding of streamlit and html was needed for designing the webpage and to make sure it was responsive to user inputs.
 
 ### 7. App Implementation  
