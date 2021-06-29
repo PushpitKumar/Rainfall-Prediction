@@ -57,7 +57,7 @@ Follow the instructions if you want to run the app from your local computer.
 pip install -r requirements.txt
 ```
 ### 6. Building the Web App
-* The web was developed using Streamlit web-app framework which is written in python suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking [here](https://streamlit.io/)
+* The web-app was developed using Streamlit framework which is written in python, suitable for small scale projects such as this one. For more information you can check the offical streamlit website by clicking [here](https://streamlit.io/)
 * Basic understanding of streamlit and html was needed for designing the webpage and to make sure it was responsive to user inputs.
 
 ### 7. App Implementation  
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 * In this model OneHotEncoding has been implemented for categorical feature encoding. This has resulted in a large feature space. LabelEncoding could optimize the model.
 * Although XgBoost performed the best, I was unable to use it for my model due to some dependency issue in app development.
 * Although the web app has been successfully developed, I'm unable to deploy it because of some issue with the Pickle File.
-* Complete removal of outliers has resulted in best model performance and same can be implemented in this problem.
+* Complete removal of outliers has shown to yield best results and same can be implemented in this problem.
 
 ### 9. Credits
 I would like to thank [Krish Naik](https://github.com/krishnaik06) for hosting this problem statement on his youtube channel for the successful completion of this project.  
